@@ -31,6 +31,14 @@ let callFarah = call => call("Farah")
 callFarah(callback)
 
 
+// useing arrow functoin but will pass both the value and the function
+
+let passedValue = (func , value) => func(`Hello ${value}` )
+
+
+passedValue(func => console.log(func) , "Rokia")
+
+
               //! What i learnd 
 //* arrow functions take less code to call so its better with small functions
 //* arrow functions are better for callback functions takes less code and preform the same

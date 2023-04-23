@@ -35,7 +35,7 @@ callFarah(callback)
 //* arrow functions take less code to call so its better with small functions
 //* arrow functions are better for callback functions takes less code and preform the same
 //* i can pass functions wich actually really useful and will help me use less code and make my code cleaner in the feature  
-//*
+//* 
 //*
 
 
